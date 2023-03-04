@@ -33,7 +33,17 @@ saldo = saque(-50, saldo, transacoes)
 saldo = saque(200, saldo, transacoes) 
 print(saldo)
 
+# desafio
+'''
+    Adicionar uma função (Extrato) para mostrar o histórico linha por linha.
+        Exemplo:
+            Transação 1: 100
+            Transação 2: -50
+            ...
 
+    Alterar o código para que sejam possível o usuário escolher
+        as ações: deposito, saque e "extrato".
+'''
 
 
 
